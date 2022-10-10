@@ -1,4 +1,4 @@
-Testando o guit 10/10/2022
+Testando o git 10/10/2022
 
 Comando Mais usados Git:
 
